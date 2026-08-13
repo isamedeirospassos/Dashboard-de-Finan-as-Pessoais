@@ -7,13 +7,11 @@ st.set_page_config(page_title="Meu Dashboard Financeiro", layout="wide")
 st.title("💸 Dashboard de Finanças Pessoais")
 
 # 2. Criar o botão de Upload
-# O parâmetro 'type' restringe para aceitar apenas arquivos .csv
 arquivo_upload = st.file_uploader("Faça o upload da sua planilha de gastos", type=["csv"])
 
 # 3. Só executa o resto do código SE o usuário tiver enviado um arquivo
 if arquivo_upload is not None:
-    
-    # Lemos o arquivo que o usuário enviou (em vez do arquivo fixo)
+
     df = pd.read_csv(arquivo_upload)
 
     # Mostrar a tabela na tela
