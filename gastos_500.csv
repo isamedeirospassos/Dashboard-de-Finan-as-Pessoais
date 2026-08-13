@@ -1,501 +1,501 @@
-Data,Categoria,Descricao,Valor
-2025-03-29,Moradia,Internet,228.49
-2025-09-24,Transporte,Gasolina,294.11
-2025-10-21,Moradia,Condomínio,322.28
-2025-01-01,Transporte,Estacionamento,233.41
-2025-07-14,Moradia,Condomínio,289.19
-2025-06-07,Lazer,Jogos,321.2
-2025-11-16,Alimentação,Restaurante,263.53
-2025-12-08,Moradia,Internet,278.38
-2025-07-08,Alimentação,Delivery,327.58
-2025-09-30,Transporte,Gasolina,303.69
-2025-07-10,Saúde,Academia,237.85
-2025-07-07,Moradia,Conta de Luz,230.11
-2025-10-08,Moradia,Internet,256.62
-2025-09-17,Lazer,Cinema,208.92
-2025-03-22,Alimentação,Supermercado,229.95
-2025-05-17,Saúde,Farmácia,151.35
-2025-01-26,Transporte,Estacionamento,38.86
-2025-07-21,Transporte,Metrô,200.83
-2025-12-22,Lazer,Show,125.33
-2025-05-15,Lazer,Cinema,159.25
-2025-04-26,Transporte,Estacionamento,241.91
-2025-01-19,Lazer,Show,239.15
-2025-05-06,Transporte,Gasolina,195.52
-2025-08-15,Moradia,Aluguel,2420.81
-2025-04-27,Moradia,Internet,46.74
-2025-06-07,Transporte,Gasolina,144.82
-2025-02-12,Transporte,Metrô,267.98
-2025-01-31,Moradia,Internet,150.71
-2025-03-06,Saúde,Academia,304.83
-2025-08-06,Moradia,Conta de Luz,18.37
-2025-11-18,Transporte,Metrô,166.93
-2025-12-11,Saúde,Academia,24.26
-2025-02-01,Lazer,Cinema,21.43
-2025-05-13,Saúde,Academia,145.49
-2025-09-25,Lazer,Show,303.48
-2025-04-20,Saúde,Academia,329.4
-2025-01-05,Moradia,Internet,301.89
-2025-07-22,Transporte,Uber,39.76
-2025-04-28,Lazer,Show,31.69
-2025-03-22,Lazer,Streaming,133.52
-2025-10-04,Moradia,Conta de Luz,103.71
-2025-01-01,Lazer,Jogos,318.78
-2025-10-01,Lazer,Show,156.49
-2025-12-08,Moradia,Condomínio,116.53
-2025-12-02,Transporte,Gasolina,125.08
-2025-04-09,Alimentação,Padaria,57.69
-2025-06-17,Lazer,Cinema,310.2
-2025-11-24,Saúde,Consulta Médica,112.64
-2025-02-05,Alimentação,Supermercado,218.86
-2025-04-16,Alimentação,Restaurante,223.8
-2025-12-23,Lazer,Show,186.29
-2025-12-30,Saúde,Academia,328.81
-2025-09-27,Saúde,Farmácia,112.15
-2025-07-27,Moradia,Conta de Luz,240.47
-2025-01-25,Transporte,Metrô,42.66
-2025-11-09,Alimentação,Padaria,294.0
-2025-09-13,Transporte,Estacionamento,151.28
-2025-11-21,Alimentação,Restaurante,148.64
-2025-05-03,Lazer,Cinema,279.78
-2025-05-14,Moradia,Condomínio,317.72
-2025-03-06,Transporte,Estacionamento,252.62
-2025-01-04,Saúde,Academia,18.34
-2025-11-25,Saúde,Academia,231.71
-2025-04-15,Alimentação,Padaria,311.66
-2025-12-01,Lazer,Streaming,232.97
-2025-06-05,Moradia,Conta de Luz,127.5
-2025-01-05,Lazer,Cinema,41.25
-2025-01-12,Saúde,Farmácia,100.71
-2025-06-14,Lazer,Show,249.93
-2025-01-29,Moradia,Internet,212.98
-2025-06-01,Moradia,Internet,222.0
-2025-02-03,Moradia,Conta de Luz,23.91
-2025-04-30,Alimentação,Restaurante,26.52
-2025-08-24,Alimentação,Padaria,219.19
-2025-05-09,Moradia,Condomínio,232.97
-2025-09-03,Saúde,Consulta Médica,27.21
-2025-01-30,Alimentação,Restaurante,33.67
-2025-11-03,Moradia,Internet,105.06
-2025-03-24,Transporte,Uber,342.45
-2025-05-20,Moradia,Condomínio,284.72
-2025-04-09,Transporte,Gasolina,31.13
-2025-01-23,Lazer,Show,69.66
-2025-03-03,Lazer,Streaming,105.46
-2025-01-27,Moradia,Condomínio,101.61
-2025-08-06,Transporte,Gasolina,144.51
-2025-02-27,Transporte,Metrô,37.93
-2025-02-18,Transporte,Estacionamento,111.52
-2026-01-01,Moradia,Internet,257.38
-2025-03-22,Lazer,Streaming,218.61
-2025-08-31,Lazer,Streaming,175.62
-2025-02-05,Saúde,Consulta Médica,288.43
-2025-11-22,Alimentação,Padaria,133.25
-2025-06-28,Saúde,Academia,320.81
-2025-03-07,Transporte,Gasolina,189.46
-2025-12-19,Moradia,Conta de Luz,74.35
-2025-05-22,Alimentação,Supermercado,39.19
-2025-07-06,Transporte,Estacionamento,137.6
-2025-08-22,Alimentação,Supermercado,247.7
-2025-06-21,Transporte,Gasolina,120.51
-2025-02-15,Transporte,Estacionamento,252.89
-2025-05-17,Saúde,Academia,322.78
-2025-11-30,Saúde,Academia,299.31
-2025-05-18,Lazer,Cinema,98.65
-2025-06-27,Saúde,Academia,125.32
-2025-09-15,Transporte,Gasolina,132.92
-2025-07-16,Lazer,Streaming,212.68
-2025-06-03,Saúde,Consulta Médica,234.25
-2025-09-10,Lazer,Show,304.25
-2025-10-08,Transporte,Estacionamento,35.15
-2025-01-09,Moradia,Aluguel,2073.77
-2025-02-15,Lazer,Streaming,172.42
-2025-07-15,Transporte,Uber,313.52
-2025-05-17,Transporte,Metrô,307.0
-2025-06-04,Saúde,Academia,265.27
-2025-11-29,Lazer,Show,235.75
-2025-03-05,Lazer,Streaming,207.54
-2025-02-06,Transporte,Gasolina,131.55
-2025-06-18,Alimentação,Delivery,145.95
-2025-02-03,Lazer,Show,170.05
-2025-01-27,Alimentação,Delivery,144.91
-2025-03-25,Moradia,Conta de Luz,25.77
-2025-07-03,Lazer,Cinema,315.83
-2025-12-25,Transporte,Gasolina,261.71
-2025-07-06,Lazer,Streaming,91.31
-2025-07-30,Moradia,Internet,261.9
-2025-10-29,Lazer,Streaming,309.46
-2025-04-11,Saúde,Academia,128.99
-2025-03-20,Saúde,Academia,117.67
-2025-02-27,Lazer,Cinema,50.0
-2025-06-07,Moradia,Conta de Luz,192.28
-2025-11-30,Saúde,Farmácia,177.69
-2025-03-17,Alimentação,Delivery,242.02
-2025-07-07,Lazer,Jogos,321.31
-2025-01-16,Saúde,Farmácia,83.78
-2025-08-10,Saúde,Academia,197.3
-2025-09-01,Transporte,Estacionamento,323.22
-2025-08-02,Saúde,Consulta Médica,321.97
-2025-02-10,Alimentação,Restaurante,222.08
-2025-11-12,Lazer,Jogos,117.4
-2025-06-11,Lazer,Show,122.59
-2025-07-22,Moradia,Internet,321.76
-2025-07-22,Lazer,Cinema,333.15
-2025-02-01,Transporte,Metrô,309.68
-2025-05-15,Transporte,Gasolina,60.6
-2025-03-23,Transporte,Estacionamento,130.51
-2025-04-10,Transporte,Uber,142.21
-2025-12-18,Transporte,Metrô,140.72
-2025-03-09,Moradia,Condomínio,348.53
-2025-01-13,Alimentação,Restaurante,321.92
-2025-10-11,Moradia,Condomínio,213.31
-2025-09-14,Saúde,Farmácia,235.76
-2025-09-11,Alimentação,Padaria,260.62
-2025-04-16,Moradia,Condomínio,254.79
-2025-05-01,Lazer,Show,335.64
-2025-06-06,Lazer,Streaming,206.67
-2025-07-09,Lazer,Streaming,46.67
-2025-05-17,Alimentação,Supermercado,336.8
-2025-08-21,Alimentação,Restaurante,268.16
-2025-12-10,Alimentação,Delivery,216.71
-2025-04-30,Saúde,Academia,215.04
-2025-12-17,Transporte,Uber,330.07
-2025-09-21,Saúde,Academia,288.66
-2025-11-07,Alimentação,Delivery,266.49
-2025-03-10,Transporte,Estacionamento,216.48
-2025-11-02,Transporte,Uber,86.99
-2025-04-14,Alimentação,Supermercado,229.71
-2025-12-20,Transporte,Metrô,212.43
-2025-07-12,Moradia,Condomínio,249.82
-2025-07-27,Moradia,Condomínio,28.37
-2025-03-02,Moradia,Internet,83.91
-2025-04-24,Transporte,Gasolina,85.87
-2025-04-19,Saúde,Consulta Médica,231.72
-2025-03-07,Moradia,Internet,65.43
-2025-05-08,Moradia,Internet,141.88
-2025-04-29,Saúde,Consulta Médica,200.25
-2025-09-01,Saúde,Farmácia,119.42
-2025-02-26,Alimentação,Restaurante,104.7
-2025-04-07,Transporte,Metrô,149.09
-2025-11-01,Transporte,Gasolina,196.97
-2025-09-10,Lazer,Streaming,327.53
-2025-04-21,Moradia,Aluguel,1214.88
-2025-07-26,Lazer,Jogos,66.36
-2025-06-07,Lazer,Cinema,109.62
-2025-09-25,Alimentação,Restaurante,321.28
-2025-10-12,Alimentação,Delivery,168.89
-2025-10-27,Saúde,Consulta Médica,218.5
-2025-05-11,Alimentação,Restaurante,122.57
-2025-07-04,Alimentação,Delivery,75.22
-2025-08-06,Transporte,Gasolina,235.89
-2025-10-08,Moradia,Aluguel,2064.36
-2025-07-10,Saúde,Farmácia,136.98
-2025-04-23,Transporte,Gasolina,340.56
-2025-03-17,Saúde,Academia,307.41
-2025-11-16,Lazer,Cinema,326.89
-2025-08-20,Saúde,Academia,222.93
-2025-05-01,Lazer,Show,219.64
-2025-09-10,Moradia,Aluguel,2352.33
-2025-03-09,Lazer,Jogos,213.51
-2025-06-14,Moradia,Aluguel,1724.35
-2025-08-24,Alimentação,Delivery,326.38
-2025-04-23,Transporte,Metrô,195.27
-2025-12-20,Alimentação,Supermercado,25.92
-2025-12-17,Transporte,Estacionamento,259.94
-2025-10-20,Saúde,Academia,191.38
-2025-06-12,Moradia,Condomínio,324.19
-2025-09-16,Moradia,Conta de Luz,196.37
-2025-03-10,Transporte,Metrô,164.36
-2025-01-26,Saúde,Academia,225.58
-2025-03-12,Lazer,Jogos,333.3
-2025-07-05,Moradia,Internet,239.41
-2025-06-18,Alimentação,Restaurante,66.15
-2025-12-02,Moradia,Aluguel,2159.72
-2025-09-16,Lazer,Show,46.87
-2025-01-16,Transporte,Metrô,126.43
-2025-11-12,Transporte,Uber,185.31
-2025-06-06,Transporte,Gasolina,180.74
-2025-10-28,Transporte,Uber,149.84
-2025-05-10,Moradia,Internet,212.35
-2025-10-03,Alimentação,Padaria,45.35
-2025-04-24,Lazer,Jogos,114.07
-2025-03-17,Saúde,Farmácia,110.76
-2025-09-29,Moradia,Conta de Luz,72.05
-2025-06-13,Lazer,Streaming,330.74
-2025-04-05,Alimentação,Padaria,123.92
-2025-11-24,Lazer,Jogos,71.5
-2025-09-09,Saúde,Farmácia,113.24
-2025-07-30,Alimentação,Supermercado,138.56
-2025-11-05,Alimentação,Supermercado,179.23
-2025-01-07,Lazer,Streaming,248.05
-2025-11-29,Moradia,Condomínio,29.19
-2025-05-02,Saúde,Consulta Médica,248.39
-2025-01-31,Moradia,Internet,86.17
-2025-07-31,Moradia,Internet,124.31
-2025-10-15,Saúde,Consulta Médica,16.53
-2025-09-03,Saúde,Consulta Médica,273.94
-2025-04-28,Lazer,Cinema,68.19
-2025-02-14,Alimentação,Supermercado,256.93
-2025-08-19,Saúde,Academia,318.75
-2025-04-10,Alimentação,Delivery,234.6
-2025-11-18,Transporte,Uber,177.49
-2025-09-25,Moradia,Condomínio,172.54
-2025-06-08,Lazer,Jogos,187.2
-2025-12-15,Transporte,Metrô,195.87
-2025-07-19,Moradia,Conta de Luz,27.87
-2025-11-26,Lazer,Show,176.43
-2025-06-06,Moradia,Condomínio,223.94
-2025-02-16,Lazer,Jogos,103.94
-2025-01-30,Transporte,Gasolina,113.24
-2025-10-27,Moradia,Aluguel,1879.11
-2025-11-15,Alimentação,Supermercado,220.02
-2025-07-31,Alimentação,Restaurante,175.53
-2025-05-05,Saúde,Farmácia,300.81
-2025-06-23,Transporte,Uber,231.55
-2025-08-15,Saúde,Consulta Médica,153.92
-2025-02-05,Lazer,Streaming,28.83
-2025-10-27,Transporte,Metrô,338.15
-2025-04-28,Lazer,Jogos,217.27
-2025-12-30,Saúde,Academia,33.33
-2025-09-10,Transporte,Metrô,70.29
-2025-05-27,Saúde,Consulta Médica,145.97
-2025-09-04,Saúde,Consulta Médica,107.15
-2025-04-26,Moradia,Internet,278.83
-2025-02-21,Transporte,Uber,317.43
-2025-09-09,Moradia,Internet,146.39
-2025-02-11,Saúde,Farmácia,296.89
-2025-02-27,Transporte,Gasolina,210.45
-2025-08-02,Lazer,Jogos,128.09
-2025-05-26,Alimentação,Delivery,256.14
-2025-02-19,Moradia,Aluguel,1612.33
-2025-06-01,Moradia,Internet,195.7
-2025-03-10,Alimentação,Supermercado,263.32
-2025-07-06,Transporte,Uber,30.08
-2025-07-24,Saúde,Farmácia,276.48
-2025-03-24,Alimentação,Padaria,183.23
-2025-08-09,Alimentação,Supermercado,90.69
-2025-12-15,Transporte,Estacionamento,319.03
-2025-02-16,Transporte,Estacionamento,294.93
-2025-10-02,Saúde,Academia,318.0
-2025-01-14,Saúde,Consulta Médica,93.24
-2025-03-18,Moradia,Condomínio,181.55
-2025-11-03,Alimentação,Delivery,282.89
-2025-07-23,Moradia,Condomínio,54.65
-2025-11-30,Saúde,Consulta Médica,269.4
-2025-08-12,Lazer,Streaming,133.06
-2025-06-10,Moradia,Internet,77.26
-2025-09-30,Alimentação,Restaurante,69.14
-2025-10-22,Alimentação,Delivery,136.03
-2025-01-02,Saúde,Consulta Médica,294.93
-2025-11-08,Alimentação,Delivery,92.01
-2025-01-09,Lazer,Streaming,116.11
-2025-01-16,Transporte,Uber,280.33
-2025-11-06,Lazer,Streaming,162.82
-2025-08-17,Saúde,Consulta Médica,187.58
-2025-05-01,Lazer,Cinema,269.21
-2025-11-06,Saúde,Academia,126.83
-2025-02-18,Alimentação,Padaria,164.29
-2025-11-30,Alimentação,Delivery,84.69
-2025-10-31,Saúde,Consulta Médica,150.2
-2025-06-02,Alimentação,Supermercado,140.83
-2025-02-18,Alimentação,Supermercado,169.78
-2025-05-16,Alimentação,Supermercado,114.63
-2025-11-10,Transporte,Metrô,291.81
-2025-08-09,Moradia,Condomínio,228.22
-2025-01-29,Moradia,Condomínio,170.16
-2025-02-22,Lazer,Jogos,54.39
-2025-05-09,Alimentação,Delivery,50.18
-2025-04-27,Lazer,Jogos,340.77
-2025-05-01,Transporte,Uber,243.78
-2025-07-27,Alimentação,Delivery,331.48
-2025-08-18,Alimentação,Delivery,276.0
-2025-06-21,Saúde,Consulta Médica,329.87
-2025-11-01,Saúde,Academia,47.67
-2025-05-08,Moradia,Internet,17.66
-2025-01-04,Transporte,Estacionamento,18.85
-2025-05-19,Saúde,Consulta Médica,314.4
-2025-06-07,Moradia,Internet,283.22
-2025-01-22,Transporte,Estacionamento,215.54
-2025-09-22,Alimentação,Delivery,85.19
-2025-01-23,Moradia,Internet,218.98
-2025-03-27,Lazer,Jogos,19.24
-2025-08-29,Lazer,Streaming,312.41
-2025-02-11,Saúde,Academia,103.94
-2025-04-18,Alimentação,Padaria,182.76
-2025-10-25,Alimentação,Delivery,253.87
-2025-04-16,Lazer,Streaming,162.6
-2025-10-15,Saúde,Farmácia,231.28
-2025-08-28,Alimentação,Restaurante,102.66
-2025-11-05,Lazer,Cinema,40.92
-2025-03-23,Moradia,Conta de Luz,75.31
-2025-09-04,Moradia,Conta de Luz,295.98
-2025-06-19,Lazer,Streaming,141.75
-2025-01-20,Lazer,Streaming,53.25
-2025-09-12,Saúde,Farmácia,300.78
-2025-06-17,Alimentação,Supermercado,73.83
-2025-01-05,Alimentação,Restaurante,273.49
-2025-03-14,Moradia,Conta de Luz,270.95
-2025-10-27,Lazer,Streaming,64.79
-2025-05-06,Saúde,Consulta Médica,231.24
-2025-07-17,Moradia,Conta de Luz,91.68
-2025-01-29,Moradia,Conta de Luz,186.23
-2025-03-08,Alimentação,Restaurante,123.05
-2025-01-15,Lazer,Cinema,253.35
-2025-07-24,Alimentação,Restaurante,327.85
-2025-09-18,Lazer,Cinema,296.21
-2025-09-06,Saúde,Academia,342.28
-2025-12-16,Moradia,Internet,49.23
-2025-06-13,Moradia,Internet,261.94
-2025-03-24,Saúde,Farmácia,22.79
-2025-08-02,Saúde,Academia,252.45
-2025-08-25,Saúde,Consulta Médica,79.87
-2025-04-12,Lazer,Streaming,316.37
-2025-08-24,Transporte,Uber,238.34
-2025-03-12,Lazer,Cinema,57.01
-2025-02-01,Alimentação,Supermercado,167.1
-2025-09-04,Lazer,Cinema,186.29
-2025-07-12,Moradia,Aluguel,2117.34
-2025-08-17,Lazer,Show,257.78
-2025-05-19,Moradia,Conta de Luz,193.91
-2025-05-08,Moradia,Condomínio,240.61
-2025-11-22,Transporte,Metrô,287.0
-2025-05-04,Alimentação,Padaria,138.77
-2025-06-07,Transporte,Gasolina,50.57
-2025-11-17,Saúde,Academia,51.91
-2025-06-30,Transporte,Uber,44.31
-2025-06-01,Moradia,Condomínio,136.6
-2025-01-09,Alimentação,Padaria,208.76
-2025-09-14,Transporte,Uber,242.02
-2025-08-25,Transporte,Gasolina,331.23
-2025-01-04,Moradia,Conta de Luz,343.47
-2025-07-17,Lazer,Cinema,194.22
-2025-01-05,Alimentação,Restaurante,52.52
-2025-04-03,Saúde,Academia,256.21
-2025-07-01,Moradia,Aluguel,1286.98
-2025-10-07,Transporte,Gasolina,63.16
-2025-04-19,Saúde,Academia,81.76
-2025-06-19,Transporte,Uber,301.84
-2025-10-30,Transporte,Uber,306.21
-2025-02-03,Lazer,Streaming,78.59
-2025-02-17,Transporte,Metrô,253.67
-2025-03-06,Moradia,Aluguel,1211.25
-2025-12-25,Moradia,Condomínio,149.46
-2025-08-27,Saúde,Farmácia,111.2
-2025-10-08,Saúde,Farmácia,56.76
-2025-02-14,Saúde,Academia,182.03
-2025-07-05,Saúde,Farmácia,137.27
-2025-11-30,Alimentação,Padaria,117.93
-2025-10-24,Saúde,Consulta Médica,81.11
-2025-05-31,Alimentação,Delivery,289.47
-2025-12-14,Moradia,Conta de Luz,71.27
-2025-03-03,Transporte,Gasolina,109.23
-2025-05-14,Saúde,Academia,187.4
-2025-12-26,Saúde,Farmácia,23.06
-2025-03-28,Saúde,Farmácia,301.68
-2025-02-25,Transporte,Uber,31.88
-2025-05-13,Moradia,Conta de Luz,298.94
-2025-10-12,Alimentação,Restaurante,229.94
-2025-08-18,Moradia,Condomínio,175.14
-2025-02-23,Alimentação,Padaria,126.9
-2025-04-03,Transporte,Estacionamento,109.65
-2025-02-13,Moradia,Aluguel,2139.61
-2025-01-26,Lazer,Jogos,254.67
-2025-04-16,Alimentação,Delivery,129.92
-2025-01-01,Saúde,Farmácia,164.17
-2025-05-25,Saúde,Consulta Médica,285.12
-2025-02-23,Lazer,Cinema,28.16
-2025-05-02,Alimentação,Supermercado,185.87
-2025-09-18,Moradia,Condomínio,50.08
-2025-02-25,Lazer,Cinema,187.24
-2025-11-18,Lazer,Cinema,260.68
-2025-01-06,Lazer,Streaming,157.35
-2025-10-27,Moradia,Internet,141.51
-2025-09-11,Lazer,Cinema,341.17
-2025-08-17,Moradia,Aluguel,1844.02
-2025-05-23,Moradia,Aluguel,1401.45
-2025-03-28,Alimentação,Restaurante,179.72
-2025-05-16,Moradia,Aluguel,1478.79
-2025-01-01,Saúde,Academia,311.82
-2025-10-29,Transporte,Metrô,295.24
-2025-08-22,Alimentação,Padaria,106.11
-2025-12-04,Lazer,Streaming,149.51
-2025-07-29,Alimentação,Delivery,324.95
-2025-01-02,Lazer,Cinema,168.18
-2025-10-24,Transporte,Uber,321.06
-2025-06-26,Saúde,Academia,209.89
-2025-06-15,Moradia,Internet,236.64
-2025-05-26,Alimentação,Padaria,274.95
-2025-09-25,Alimentação,Padaria,113.11
-2025-06-23,Alimentação,Padaria,311.88
-2025-06-29,Lazer,Cinema,170.14
-2025-01-15,Alimentação,Supermercado,103.13
-2025-02-10,Lazer,Jogos,107.05
-2025-12-13,Alimentação,Padaria,251.08
-2025-10-05,Moradia,Conta de Luz,328.72
-2025-12-10,Alimentação,Supermercado,182.72
-2025-11-30,Transporte,Metrô,125.87
-2025-05-08,Alimentação,Delivery,61.57
-2025-10-21,Alimentação,Restaurante,36.22
-2025-03-08,Moradia,Internet,17.11
-2025-12-10,Transporte,Metrô,238.74
-2025-04-03,Saúde,Farmácia,22.77
-2025-11-24,Saúde,Consulta Médica,203.89
-2025-07-02,Alimentação,Supermercado,258.14
-2025-12-22,Moradia,Aluguel,1611.76
-2025-03-10,Alimentação,Restaurante,29.93
-2025-09-28,Alimentação,Restaurante,271.25
-2025-08-20,Moradia,Internet,162.85
-2025-04-07,Transporte,Uber,237.68
-2025-03-11,Moradia,Internet,54.28
-2025-01-16,Moradia,Aluguel,1806.43
-2025-05-16,Alimentação,Padaria,16.54
-2025-04-14,Lazer,Jogos,243.52
-2025-04-08,Transporte,Estacionamento,255.49
-2025-07-04,Moradia,Aluguel,1908.55
-2025-05-26,Alimentação,Restaurante,245.48
-2025-10-03,Lazer,Jogos,291.17
-2025-07-27,Lazer,Show,103.26
-2025-03-31,Transporte,Gasolina,190.76
-2025-06-06,Saúde,Consulta Médica,328.63
-2025-01-06,Alimentação,Padaria,314.6
-2025-09-24,Alimentação,Restaurante,213.84
-2025-08-18,Transporte,Estacionamento,250.76
-2025-09-29,Lazer,Show,130.8
-2025-12-05,Alimentação,Supermercado,318.21
-2025-09-04,Alimentação,Delivery,56.32
-2025-03-15,Saúde,Consulta Médica,288.88
-2025-07-11,Lazer,Show,179.47
-2025-02-27,Transporte,Metrô,346.27
-2025-02-26,Transporte,Uber,203.4
-2025-11-08,Alimentação,Supermercado,344.8
-2025-10-25,Moradia,Conta de Luz,51.36
-2025-09-10,Transporte,Uber,149.82
-2025-06-07,Alimentação,Padaria,71.0
-2026-01-01,Alimentação,Restaurante,337.1
-2025-06-28,Lazer,Show,193.57
-2025-01-13,Lazer,Show,315.41
-2025-12-29,Moradia,Aluguel,1289.65
-2025-12-11,Lazer,Streaming,126.53
-2025-05-31,Moradia,Conta de Luz,97.32
-2025-09-03,Saúde,Consulta Médica,269.98
-2025-03-04,Saúde,Farmácia,128.66
-2025-05-14,Alimentação,Restaurante,326.18
-2025-10-03,Alimentação,Delivery,86.77
-2025-06-20,Transporte,Metrô,219.62
-2025-09-07,Saúde,Academia,174.4
-2025-01-21,Lazer,Cinema,167.76
-2025-12-28,Saúde,Farmácia,48.15
-2025-04-29,Alimentação,Padaria,209.14
-2025-11-02,Moradia,Aluguel,1278.15
-2025-10-01,Transporte,Metrô,295.45
-2025-09-26,Moradia,Internet,44.4
-2025-10-02,Transporte,Metrô,29.81
-2025-07-15,Lazer,Show,221.21
-2025-08-14,Moradia,Conta de Luz,238.08
-2025-05-09,Lazer,Show,104.15
-2025-02-15,Transporte,Metrô,238.17
-2025-08-04,Saúde,Consulta Médica,39.74
-2025-03-28,Transporte,Uber,66.62
-2025-05-09,Transporte,Gasolina,136.04
-2025-07-07,Lazer,Jogos,201.52
-2025-03-21,Moradia,Conta de Luz,87.05
+Data,Categoria,Tipo,Descricao,Valor
+2024-04-09,Saúde,Fixo,Farmácia,91.83
+2024-01-05,Moradia,Fixo,Aluguel,1794.28
+2024-05-18,Transporte,Variável,Uber,229.83
+2024-09-10,Saúde,Fixo,Farmácia,302.49
+2024-11-29,Saúde,Fixo,Consulta Médica,325.3
+2024-10-17,Transporte,Variável,Uber,213.38
+2024-12-07,Saúde,Fixo,Academia,105.26
+2024-08-28,Alimentação,Variável,Supermercado,54.23
+2024-09-17,Moradia,Fixo,Aluguel,2292.1
+2024-12-25,Saúde,Fixo,Consulta Médica,207.64
+2024-01-10,Moradia,Fixo,Internet,217.38
+2024-08-11,Lazer,Variável,Jogos,346.54
+2024-11-07,Saúde,Fixo,Consulta Médica,234.52
+2024-01-28,Lazer,Variável,Show,93.84
+2024-01-08,Alimentação,Variável,Supermercado,317.0
+2024-12-02,Saúde,Fixo,Consulta Médica,108.99
+2024-07-01,Saúde,Fixo,Farmácia,284.58
+2024-11-08,Lazer,Variável,Streaming,182.79
+2024-02-12,Transporte,Variável,Uber,198.17
+2024-02-02,Moradia,Fixo,Conta de Luz,278.77
+2024-05-04,Saúde,Fixo,Academia,210.63
+2024-06-19,Transporte,Variável,Gasolina,251.19
+2024-04-30,Saúde,Fixo,Farmácia,85.71
+2024-07-07,Moradia,Fixo,Aluguel,2405.41
+2024-11-06,Lazer,Variável,Jogos,133.63
+2024-09-18,Moradia,Fixo,Conta de Luz,68.71
+2024-01-15,Moradia,Fixo,Condomínio,81.22
+2024-11-01,Moradia,Fixo,Aluguel,2360.16
+2024-03-03,Alimentação,Variável,Restaurante,183.34
+2024-01-27,Alimentação,Variável,Restaurante,334.56
+2024-12-09,Lazer,Variável,Streaming,168.26
+2024-08-19,Transporte,Variável,Metrô,288.36
+2024-06-30,Saúde,Fixo,Academia,24.52
+2024-09-21,Lazer,Variável,Show,251.47
+2024-07-12,Saúde,Fixo,Farmácia,63.43
+2024-06-03,Saúde,Fixo,Farmácia,181.3
+2024-08-11,Saúde,Fixo,Farmácia,92.42
+2024-07-01,Moradia,Fixo,Condomínio,124.64
+2024-04-13,Moradia,Fixo,Conta de Luz,59.32
+2024-01-09,Moradia,Fixo,Aluguel,2414.57
+2024-05-23,Transporte,Variável,Uber,135.13
+2024-03-14,Moradia,Fixo,Internet,188.1
+2024-06-27,Transporte,Variável,Metrô,97.56
+2024-11-08,Saúde,Fixo,Farmácia,129.7
+2024-04-07,Transporte,Variável,Metrô,94.82
+2024-06-10,Lazer,Variável,Jogos,232.73
+2024-06-14,Moradia,Fixo,Aluguel,1950.84
+2024-01-02,Saúde,Fixo,Academia,158.68
+2024-02-14,Lazer,Variável,Jogos,237.88
+2024-10-06,Moradia,Fixo,Condomínio,21.17
+2024-07-21,Transporte,Variável,Estacionamento,201.34
+2024-02-11,Transporte,Variável,Metrô,70.23
+2024-03-24,Moradia,Fixo,Conta de Luz,254.9
+2024-02-20,Saúde,Fixo,Consulta Médica,45.98
+2024-10-22,Lazer,Variável,Jogos,86.49
+2024-08-03,Alimentação,Variável,Padaria,248.6
+2024-08-26,Saúde,Fixo,Farmácia,313.2
+2024-02-21,Moradia,Fixo,Aluguel,1380.47
+2024-07-22,Alimentação,Variável,Restaurante,207.41
+2024-04-19,Moradia,Fixo,Conta de Luz,294.13
+2024-03-04,Lazer,Variável,Show,109.5
+2024-10-19,Alimentação,Variável,Supermercado,174.22
+2024-02-23,Saúde,Fixo,Farmácia,276.4
+2024-08-18,Alimentação,Variável,Restaurante,306.81
+2024-04-13,Saúde,Fixo,Consulta Médica,302.17
+2024-07-28,Moradia,Fixo,Aluguel,1820.24
+2024-12-01,Saúde,Fixo,Consulta Médica,185.05
+2024-07-07,Saúde,Fixo,Farmácia,98.76
+2024-01-07,Moradia,Fixo,Aluguel,2390.12
+2024-03-18,Saúde,Fixo,Farmácia,272.58
+2024-08-27,Saúde,Fixo,Farmácia,57.95
+2024-07-15,Lazer,Variável,Streaming,228.01
+2024-12-21,Saúde,Fixo,Consulta Médica,341.91
+2024-06-16,Alimentação,Variável,Restaurante,61.04
+2024-01-12,Saúde,Fixo,Consulta Médica,209.73
+2024-09-05,Alimentação,Variável,Delivery,99.87
+2024-06-23,Saúde,Fixo,Farmácia,217.51
+2024-07-25,Alimentação,Variável,Delivery,220.15
+2024-10-17,Alimentação,Variável,Padaria,31.72
+2024-01-05,Transporte,Variável,Gasolina,143.86
+2024-06-06,Alimentação,Variável,Delivery,304.81
+2024-04-04,Alimentação,Variável,Delivery,70.98
+2024-06-17,Saúde,Fixo,Farmácia,55.68
+2024-07-17,Lazer,Variável,Streaming,330.39
+2024-03-20,Moradia,Fixo,Condomínio,46.09
+2024-03-03,Lazer,Variável,Show,340.32
+2024-04-07,Transporte,Variável,Estacionamento,245.9
+2024-10-15,Lazer,Variável,Streaming,266.83
+2024-01-23,Alimentação,Variável,Supermercado,48.34
+2024-11-19,Moradia,Fixo,Aluguel,1294.79
+2024-07-15,Alimentação,Variável,Supermercado,256.29
+2024-08-03,Alimentação,Variável,Restaurante,18.23
+2024-08-21,Transporte,Variável,Gasolina,64.77
+2024-03-23,Alimentação,Variável,Supermercado,100.91
+2024-05-01,Lazer,Variável,Show,282.0
+2024-12-30,Alimentação,Variável,Delivery,133.24
+2024-05-12,Transporte,Variável,Metrô,310.78
+2024-11-25,Transporte,Variável,Gasolina,312.99
+2024-08-10,Moradia,Fixo,Conta de Luz,236.53
+2024-10-17,Lazer,Variável,Streaming,15.18
+2024-07-15,Transporte,Variável,Metrô,279.11
+2024-03-14,Transporte,Variável,Uber,300.53
+2024-02-10,Saúde,Fixo,Consulta Médica,278.48
+2024-11-23,Alimentação,Variável,Restaurante,74.68
+2024-06-05,Saúde,Fixo,Academia,109.43
+2024-12-13,Saúde,Fixo,Consulta Médica,249.42
+2024-02-02,Saúde,Fixo,Academia,172.92
+2024-04-05,Saúde,Fixo,Farmácia,66.37
+2024-04-15,Saúde,Fixo,Academia,321.35
+2024-07-21,Alimentação,Variável,Padaria,179.46
+2024-05-21,Saúde,Fixo,Academia,124.65
+2024-01-21,Transporte,Variável,Estacionamento,73.12
+2024-09-16,Lazer,Variável,Cinema,244.92
+2024-04-07,Moradia,Fixo,Aluguel,2408.65
+2024-04-07,Alimentação,Variável,Delivery,179.72
+2024-06-22,Transporte,Variável,Metrô,312.23
+2024-10-25,Transporte,Variável,Gasolina,342.07
+2024-07-05,Moradia,Fixo,Condomínio,160.0
+2024-04-27,Transporte,Variável,Metrô,49.04
+2024-07-22,Saúde,Fixo,Farmácia,56.68
+2024-03-11,Moradia,Fixo,Conta de Luz,310.05
+2024-01-25,Moradia,Fixo,Conta de Luz,244.93
+2024-09-05,Moradia,Fixo,Internet,146.56
+2024-04-22,Moradia,Fixo,Conta de Luz,99.67
+2024-11-24,Transporte,Variável,Metrô,303.26
+2024-09-27,Moradia,Fixo,Conta de Luz,59.26
+2024-09-02,Lazer,Variável,Streaming,169.56
+2024-07-08,Saúde,Fixo,Consulta Médica,327.89
+2024-12-23,Lazer,Variável,Jogos,314.69
+2024-10-10,Alimentação,Variável,Padaria,108.02
+2024-11-12,Moradia,Fixo,Conta de Luz,37.06
+2024-01-18,Saúde,Fixo,Consulta Médica,28.46
+2024-12-18,Lazer,Variável,Jogos,21.66
+2024-12-10,Moradia,Fixo,Aluguel,1706.93
+2024-06-10,Alimentação,Variável,Supermercado,124.51
+2024-05-13,Moradia,Fixo,Internet,298.15
+2024-02-05,Transporte,Variável,Metrô,150.27
+2024-05-16,Transporte,Variável,Metrô,104.35
+2024-12-27,Alimentação,Variável,Supermercado,93.8
+2024-06-13,Transporte,Variável,Estacionamento,159.43
+2024-01-24,Transporte,Variável,Gasolina,247.71
+2024-06-02,Lazer,Variável,Jogos,75.64
+2024-09-13,Lazer,Variável,Jogos,103.06
+2024-04-21,Alimentação,Variável,Delivery,327.35
+2024-12-12,Moradia,Fixo,Aluguel,1329.11
+2024-09-03,Alimentação,Variável,Delivery,261.59
+2024-10-05,Saúde,Fixo,Consulta Médica,62.05
+2024-04-08,Lazer,Variável,Cinema,153.1
+2024-12-12,Alimentação,Variável,Supermercado,195.19
+2024-04-25,Lazer,Variável,Streaming,196.71
+2024-12-03,Lazer,Variável,Streaming,188.08
+2024-02-29,Lazer,Variável,Streaming,282.04
+2024-02-21,Saúde,Fixo,Farmácia,284.48
+2024-08-24,Lazer,Variável,Cinema,276.34
+2024-02-20,Moradia,Fixo,Condomínio,127.04
+2024-04-12,Transporte,Variável,Metrô,96.62
+2024-02-26,Alimentação,Variável,Supermercado,222.17
+2024-03-06,Saúde,Fixo,Consulta Médica,139.56
+2024-11-04,Transporte,Variável,Estacionamento,56.06
+2024-07-20,Lazer,Variável,Jogos,135.03
+2024-12-28,Moradia,Fixo,Condomínio,307.23
+2024-07-04,Saúde,Fixo,Consulta Médica,34.81
+2024-06-27,Moradia,Fixo,Conta de Luz,313.31
+2024-12-23,Saúde,Fixo,Farmácia,196.86
+2024-10-08,Moradia,Fixo,Internet,142.44
+2024-06-09,Moradia,Fixo,Condomínio,42.86
+2024-08-07,Lazer,Variável,Cinema,279.37
+2024-03-08,Lazer,Variável,Show,346.26
+2024-11-20,Transporte,Variável,Gasolina,343.98
+2024-01-24,Moradia,Fixo,Internet,20.36
+2024-06-12,Lazer,Variável,Streaming,268.09
+2024-11-19,Lazer,Variável,Cinema,219.77
+2024-03-07,Lazer,Variável,Streaming,323.45
+2024-03-06,Lazer,Variável,Streaming,72.3
+2024-12-02,Lazer,Variável,Cinema,210.14
+2024-01-21,Alimentação,Variável,Restaurante,309.38
+2024-10-06,Saúde,Fixo,Farmácia,131.98
+2024-04-15,Saúde,Fixo,Academia,329.77
+2024-09-20,Moradia,Fixo,Internet,134.0
+2024-08-07,Moradia,Fixo,Conta de Luz,309.9
+2024-10-06,Moradia,Fixo,Internet,43.3
+2024-11-30,Alimentação,Variável,Supermercado,94.49
+2024-06-30,Saúde,Fixo,Consulta Médica,345.83
+2024-04-07,Alimentação,Variável,Delivery,151.89
+2024-01-28,Alimentação,Variável,Padaria,222.93
+2024-08-13,Transporte,Variável,Gasolina,344.79
+2024-10-16,Lazer,Variável,Cinema,47.89
+2024-01-23,Transporte,Variável,Gasolina,202.56
+2024-05-02,Moradia,Fixo,Conta de Luz,67.09
+2024-02-01,Saúde,Fixo,Consulta Médica,264.98
+2024-02-11,Saúde,Fixo,Farmácia,105.2
+2024-07-26,Transporte,Variável,Gasolina,39.88
+2024-03-27,Lazer,Variável,Streaming,337.61
+2024-05-27,Transporte,Variável,Metrô,192.2
+2024-10-11,Alimentação,Variável,Restaurante,71.63
+2024-09-30,Lazer,Variável,Streaming,133.37
+2024-02-04,Saúde,Fixo,Academia,211.06
+2024-03-15,Transporte,Variável,Metrô,226.75
+2024-05-24,Saúde,Fixo,Academia,184.91
+2024-04-12,Saúde,Fixo,Academia,284.82
+2024-03-18,Saúde,Fixo,Farmácia,207.91
+2024-04-22,Alimentação,Variável,Supermercado,159.76
+2024-12-27,Transporte,Variável,Uber,161.05
+2024-10-21,Moradia,Fixo,Internet,242.18
+2024-09-02,Moradia,Fixo,Aluguel,1672.93
+2024-07-29,Saúde,Fixo,Academia,312.51
+2024-02-03,Alimentação,Variável,Padaria,47.37
+2024-07-25,Alimentação,Variável,Supermercado,103.06
+2024-01-11,Lazer,Variável,Cinema,44.2
+2024-09-01,Alimentação,Variável,Supermercado,300.47
+2024-06-03,Alimentação,Variável,Delivery,69.48
+2024-09-03,Saúde,Fixo,Farmácia,146.76
+2024-03-01,Moradia,Fixo,Aluguel,1663.15
+2024-02-24,Moradia,Fixo,Internet,126.46
+2024-01-10,Transporte,Variável,Estacionamento,263.89
+2024-08-28,Transporte,Variável,Gasolina,138.54
+2024-06-13,Moradia,Fixo,Aluguel,2376.82
+2024-07-07,Alimentação,Variável,Supermercado,313.62
+2024-09-09,Moradia,Fixo,Condomínio,166.81
+2024-01-10,Alimentação,Variável,Supermercado,164.36
+2024-11-21,Lazer,Variável,Streaming,307.5
+2024-02-01,Alimentação,Variável,Restaurante,349.09
+2024-06-23,Saúde,Fixo,Academia,183.37
+2024-06-23,Transporte,Variável,Metrô,310.84
+2024-08-25,Alimentação,Variável,Restaurante,261.41
+2024-03-14,Lazer,Variável,Show,283.35
+2024-08-29,Transporte,Variável,Metrô,182.7
+2024-05-19,Lazer,Variável,Streaming,97.8
+2024-04-23,Saúde,Fixo,Farmácia,142.22
+2024-09-09,Lazer,Variável,Show,82.57
+2024-12-14,Saúde,Fixo,Consulta Médica,319.77
+2024-05-18,Moradia,Fixo,Internet,323.84
+2024-10-29,Moradia,Fixo,Condomínio,117.66
+2024-02-27,Moradia,Fixo,Condomínio,247.24
+2024-03-09,Saúde,Fixo,Farmácia,24.95
+2024-12-12,Moradia,Fixo,Aluguel,1609.66
+2024-09-29,Alimentação,Variável,Delivery,49.5
+2024-01-14,Saúde,Fixo,Academia,107.45
+2024-07-06,Transporte,Variável,Uber,62.84
+2024-10-07,Transporte,Variável,Uber,149.0
+2024-07-13,Transporte,Variável,Metrô,169.41
+2024-08-27,Lazer,Variável,Jogos,341.44
+2024-12-07,Transporte,Variável,Estacionamento,348.11
+2024-05-20,Alimentação,Variável,Padaria,147.96
+2024-02-26,Saúde,Fixo,Farmácia,74.7
+2024-05-02,Lazer,Variável,Show,152.02
+2024-05-15,Transporte,Variável,Gasolina,133.59
+2024-12-02,Lazer,Variável,Streaming,339.42
+2024-09-10,Saúde,Fixo,Consulta Médica,224.29
+2024-08-15,Moradia,Fixo,Internet,153.95
+2024-03-19,Alimentação,Variável,Padaria,263.16
+2024-10-26,Alimentação,Variável,Delivery,314.9
+2024-05-02,Saúde,Fixo,Farmácia,90.15
+2024-02-18,Moradia,Fixo,Internet,165.26
+2024-08-11,Transporte,Variável,Gasolina,340.93
+2024-04-28,Alimentação,Variável,Delivery,89.71
+2024-03-16,Transporte,Variável,Estacionamento,241.75
+2024-09-16,Alimentação,Variável,Supermercado,183.73
+2024-11-06,Transporte,Variável,Uber,331.77
+2024-08-05,Alimentação,Variável,Supermercado,195.95
+2024-09-24,Saúde,Fixo,Consulta Médica,100.13
+2024-12-28,Alimentação,Variável,Padaria,94.59
+2024-11-20,Moradia,Fixo,Aluguel,1911.81
+2024-07-26,Saúde,Fixo,Consulta Médica,50.47
+2024-09-28,Lazer,Variável,Show,301.91
+2024-08-29,Moradia,Fixo,Aluguel,1718.21
+2024-06-01,Saúde,Fixo,Farmácia,120.66
+2024-10-08,Moradia,Fixo,Condomínio,205.18
+2024-06-23,Transporte,Variável,Metrô,89.16
+2024-01-06,Transporte,Variável,Gasolina,139.69
+2024-06-12,Saúde,Fixo,Academia,252.02
+2024-10-08,Alimentação,Variável,Supermercado,94.15
+2024-02-09,Moradia,Fixo,Conta de Luz,187.32
+2024-12-24,Transporte,Variável,Uber,320.99
+2024-09-19,Moradia,Fixo,Conta de Luz,246.95
+2024-05-10,Lazer,Variável,Show,179.27
+2024-07-18,Alimentação,Variável,Supermercado,79.48
+2024-02-22,Lazer,Variável,Jogos,220.37
+2024-02-28,Moradia,Fixo,Internet,54.08
+2024-12-22,Transporte,Variável,Uber,109.88
+2024-07-09,Transporte,Variável,Estacionamento,288.24
+2024-08-26,Saúde,Fixo,Consulta Médica,229.3
+2024-07-30,Transporte,Variável,Gasolina,137.2
+2024-04-12,Moradia,Fixo,Condomínio,110.57
+2024-03-04,Moradia,Fixo,Internet,152.08
+2024-12-15,Lazer,Variável,Show,29.73
+2024-02-06,Alimentação,Variável,Supermercado,227.51
+2024-01-26,Transporte,Variável,Metrô,172.57
+2024-03-31,Saúde,Fixo,Consulta Médica,40.07
+2024-09-11,Lazer,Variável,Show,292.35
+2024-11-13,Transporte,Variável,Uber,99.83
+2024-08-06,Alimentação,Variável,Delivery,257.85
+2024-03-13,Alimentação,Variável,Padaria,323.05
+2024-01-16,Saúde,Fixo,Consulta Médica,206.99
+2024-02-14,Transporte,Variável,Metrô,40.58
+2024-07-03,Transporte,Variável,Metrô,79.95
+2024-04-23,Saúde,Fixo,Academia,95.3
+2024-07-09,Transporte,Variável,Estacionamento,81.81
+2024-04-23,Transporte,Variável,Gasolina,47.84
+2024-05-05,Moradia,Fixo,Internet,75.19
+2024-07-13,Alimentação,Variável,Padaria,134.43
+2024-08-06,Saúde,Fixo,Academia,153.03
+2024-04-15,Alimentação,Variável,Delivery,142.92
+2024-11-25,Lazer,Variável,Jogos,103.08
+2024-05-20,Lazer,Variável,Show,123.99
+2024-01-12,Moradia,Fixo,Aluguel,2205.73
+2024-07-31,Saúde,Fixo,Consulta Médica,218.45
+2024-03-04,Transporte,Variável,Gasolina,161.28
+2024-07-18,Lazer,Variável,Jogos,96.75
+2024-12-05,Saúde,Fixo,Consulta Médica,228.39
+2024-09-24,Alimentação,Variável,Padaria,252.15
+2024-10-03,Lazer,Variável,Cinema,164.56
+2024-02-04,Alimentação,Variável,Restaurante,240.73
+2024-08-05,Saúde,Fixo,Farmácia,139.18
+2024-01-23,Alimentação,Variável,Restaurante,335.52
+2024-03-16,Moradia,Fixo,Condomínio,298.61
+2024-10-18,Saúde,Fixo,Academia,194.44
+2024-02-07,Moradia,Fixo,Aluguel,1881.45
+2024-04-19,Saúde,Fixo,Farmácia,31.24
+2024-03-30,Alimentação,Variável,Delivery,150.2
+2024-01-06,Lazer,Variável,Streaming,103.14
+2024-12-04,Saúde,Fixo,Academia,183.68
+2024-03-13,Alimentação,Variável,Delivery,217.13
+2024-08-10,Alimentação,Variável,Delivery,116.48
+2024-01-20,Lazer,Variável,Show,69.25
+2024-12-06,Moradia,Fixo,Aluguel,2051.84
+2024-10-30,Transporte,Variável,Uber,79.46
+2024-10-14,Transporte,Variável,Estacionamento,50.43
+2024-02-14,Saúde,Fixo,Farmácia,324.7
+2024-04-24,Lazer,Variável,Show,167.61
+2024-05-20,Alimentação,Variável,Supermercado,141.63
+2024-08-08,Alimentação,Variável,Restaurante,170.38
+2024-04-02,Lazer,Variável,Jogos,179.47
+2024-02-06,Moradia,Fixo,Conta de Luz,132.64
+2024-04-21,Lazer,Variável,Show,216.94
+2024-04-01,Transporte,Variável,Gasolina,92.71
+2024-12-13,Saúde,Fixo,Farmácia,347.98
+2024-06-01,Saúde,Fixo,Consulta Médica,43.86
+2024-12-14,Transporte,Variável,Gasolina,25.68
+2024-02-04,Alimentação,Variável,Delivery,80.84
+2024-10-10,Transporte,Variável,Uber,18.1
+2024-08-08,Alimentação,Variável,Padaria,121.91
+2024-02-15,Transporte,Variável,Uber,44.67
+2024-09-24,Moradia,Fixo,Condomínio,71.82
+2024-07-20,Alimentação,Variável,Delivery,197.74
+2024-10-30,Transporte,Variável,Estacionamento,221.62
+2024-12-27,Lazer,Variável,Streaming,128.49
+2024-02-11,Transporte,Variável,Metrô,159.61
+2024-05-01,Alimentação,Variável,Padaria,185.6
+2024-12-24,Lazer,Variável,Streaming,76.74
+2024-02-10,Transporte,Variável,Gasolina,224.85
+2024-09-15,Lazer,Variável,Streaming,327.6
+2024-10-06,Lazer,Variável,Show,300.52
+2024-03-06,Lazer,Variável,Show,309.84
+2024-12-15,Alimentação,Variável,Delivery,145.35
+2024-09-30,Transporte,Variável,Metrô,247.69
+2024-02-17,Transporte,Variável,Metrô,301.35
+2024-12-31,Saúde,Fixo,Academia,166.97
+2024-02-09,Lazer,Variável,Streaming,73.45
+2024-07-29,Alimentação,Variável,Supermercado,268.79
+2024-06-18,Lazer,Variável,Show,26.2
+2024-12-14,Lazer,Variável,Show,187.64
+2024-05-06,Moradia,Fixo,Aluguel,2065.01
+2024-08-09,Saúde,Fixo,Academia,312.12
+2024-07-18,Alimentação,Variável,Delivery,90.79
+2024-03-06,Lazer,Variável,Streaming,53.16
+2024-09-23,Transporte,Variável,Uber,82.68
+2024-12-31,Moradia,Fixo,Condomínio,165.24
+2024-03-07,Moradia,Fixo,Aluguel,1523.2
+2024-07-09,Transporte,Variável,Estacionamento,69.73
+2024-08-30,Transporte,Variável,Metrô,143.06
+2024-05-04,Alimentação,Variável,Supermercado,55.62
+2024-12-11,Transporte,Variável,Metrô,342.8
+2024-12-09,Transporte,Variável,Uber,99.58
+2024-10-20,Saúde,Fixo,Consulta Médica,303.48
+2024-08-19,Alimentação,Variável,Padaria,35.63
+2024-02-23,Transporte,Variável,Gasolina,270.9
+2024-12-21,Moradia,Fixo,Condomínio,263.43
+2024-05-08,Moradia,Fixo,Internet,346.78
+2024-10-08,Saúde,Fixo,Consulta Médica,281.59
+2024-12-29,Lazer,Variável,Streaming,52.1
+2024-09-14,Lazer,Variável,Show,348.61
+2024-07-11,Alimentação,Variável,Delivery,149.34
+2024-09-02,Lazer,Variável,Cinema,120.33
+2024-09-20,Transporte,Variável,Estacionamento,298.43
+2024-04-27,Lazer,Variável,Cinema,100.8
+2024-03-13,Saúde,Fixo,Farmácia,138.05
+2024-06-16,Saúde,Fixo,Consulta Médica,322.85
+2024-07-14,Transporte,Variável,Estacionamento,35.98
+2024-07-27,Moradia,Fixo,Internet,136.3
+2024-05-24,Lazer,Variável,Cinema,116.0
+2024-05-31,Lazer,Variável,Cinema,298.44
+2024-03-16,Transporte,Variável,Metrô,298.57
+2024-10-24,Saúde,Fixo,Academia,329.85
+2024-06-19,Alimentação,Variável,Restaurante,209.96
+2024-03-10,Saúde,Fixo,Academia,160.41
+2024-06-13,Transporte,Variável,Gasolina,315.6
+2024-05-06,Saúde,Fixo,Farmácia,218.39
+2024-05-23,Alimentação,Variável,Delivery,96.44
+2024-10-10,Lazer,Variável,Streaming,334.92
+2024-04-24,Alimentação,Variável,Padaria,243.14
+2024-03-29,Moradia,Fixo,Internet,136.4
+2024-01-21,Transporte,Variável,Metrô,349.26
+2024-10-19,Moradia,Fixo,Internet,292.26
+2024-09-19,Transporte,Variável,Estacionamento,208.86
+2024-09-28,Saúde,Fixo,Academia,180.85
+2024-11-18,Moradia,Fixo,Condomínio,273.47
+2024-02-05,Alimentação,Variável,Padaria,154.17
+2024-12-06,Lazer,Variável,Cinema,315.43
+2024-12-14,Saúde,Fixo,Consulta Médica,180.82
+2024-10-11,Lazer,Variável,Jogos,226.37
+2024-05-31,Lazer,Variável,Cinema,87.94
+2024-07-14,Lazer,Variável,Streaming,308.33
+2024-05-22,Lazer,Variável,Cinema,214.03
+2024-01-06,Saúde,Fixo,Academia,135.83
+2024-03-10,Alimentação,Variável,Supermercado,108.19
+2024-08-27,Lazer,Variável,Streaming,34.06
+2024-04-16,Lazer,Variável,Show,252.64
+2024-02-25,Transporte,Variável,Gasolina,261.43
+2024-08-11,Alimentação,Variável,Supermercado,268.17
+2024-02-10,Lazer,Variável,Jogos,238.2
+2024-01-18,Moradia,Fixo,Internet,195.63
+2024-04-02,Alimentação,Variável,Restaurante,251.1
+2024-12-26,Moradia,Fixo,Aluguel,1649.68
+2024-09-11,Alimentação,Variável,Supermercado,91.58
+2024-04-15,Moradia,Fixo,Condomínio,283.32
+2024-02-28,Transporte,Variável,Estacionamento,321.15
+2024-09-15,Moradia,Fixo,Conta de Luz,73.38
+2024-02-16,Moradia,Fixo,Aluguel,1322.59
+2024-09-25,Lazer,Variável,Streaming,231.02
+2024-04-30,Lazer,Variável,Jogos,124.02
+2024-10-02,Moradia,Fixo,Conta de Luz,160.67
+2024-03-19,Transporte,Variável,Gasolina,245.54
+2024-09-10,Lazer,Variável,Streaming,233.23
+2024-03-05,Saúde,Fixo,Consulta Médica,326.61
+2024-07-18,Alimentação,Variável,Padaria,102.85
+2024-06-25,Alimentação,Variável,Delivery,342.43
+2024-08-13,Moradia,Fixo,Condomínio,112.91
+2024-02-16,Alimentação,Variável,Padaria,199.25
+2024-10-25,Alimentação,Variável,Padaria,252.86
+2024-12-20,Saúde,Fixo,Academia,230.82
+2024-01-27,Saúde,Fixo,Academia,258.19
+2024-07-22,Lazer,Variável,Show,231.67
+2024-12-14,Lazer,Variável,Jogos,226.39
+2024-03-12,Lazer,Variável,Jogos,220.1
+2024-02-28,Alimentação,Variável,Supermercado,34.21
+2024-03-20,Lazer,Variável,Jogos,41.19
+2024-05-31,Alimentação,Variável,Supermercado,287.36
+2024-09-05,Transporte,Variável,Uber,26.17
+2024-11-08,Moradia,Fixo,Aluguel,2342.47
+2024-06-24,Moradia,Fixo,Condomínio,183.42
+2024-11-30,Alimentação,Variável,Restaurante,318.86
+2024-07-05,Moradia,Fixo,Internet,184.43
+2024-05-08,Saúde,Fixo,Consulta Médica,50.12
+2024-07-19,Transporte,Variável,Gasolina,214.48
+2024-04-21,Lazer,Variável,Show,155.89
+2024-11-10,Alimentação,Variável,Padaria,335.86
+2024-03-17,Lazer,Variável,Show,243.3
+2024-04-10,Alimentação,Variável,Delivery,85.24
+2024-09-21,Moradia,Fixo,Condomínio,124.79
+2024-08-28,Alimentação,Variável,Padaria,137.32
+2024-01-14,Alimentação,Variável,Padaria,114.18
+2024-08-08,Moradia,Fixo,Aluguel,1391.99
+2024-07-17,Moradia,Fixo,Condomínio,192.28
+2024-06-19,Saúde,Fixo,Farmácia,216.03
+2024-12-05,Moradia,Fixo,Aluguel,1227.49
+2024-12-17,Lazer,Variável,Show,298.39
+2024-02-05,Alimentação,Variável,Restaurante,282.88
+2024-08-11,Alimentação,Variável,Restaurante,230.58
+2024-03-03,Lazer,Variável,Streaming,60.97
+2024-12-18,Alimentação,Variável,Padaria,183.47
+2024-03-07,Transporte,Variável,Estacionamento,98.94
+2024-12-24,Transporte,Variável,Gasolina,303.04
+2024-09-28,Saúde,Fixo,Farmácia,289.16
+2024-02-09,Alimentação,Variável,Supermercado,203.55
+2024-10-19,Alimentação,Variável,Supermercado,324.83
+2024-10-26,Saúde,Fixo,Farmácia,308.51
+2024-10-08,Alimentação,Variável,Supermercado,35.72
+2024-09-26,Moradia,Fixo,Internet,170.74
+2024-12-31,Alimentação,Variável,Delivery,200.61
+2024-08-11,Moradia,Fixo,Conta de Luz,169.85
+2024-08-21,Alimentação,Variável,Delivery,188.17
+2024-03-17,Lazer,Variável,Cinema,348.89
+2024-11-23,Saúde,Fixo,Consulta Médica,166.79
+2024-03-19,Transporte,Variável,Uber,214.92
+2024-06-25,Moradia,Fixo,Aluguel,2421.44
+2024-10-09,Transporte,Variável,Gasolina,229.59
+2024-08-25,Lazer,Variável,Jogos,239.93
+2024-12-26,Lazer,Variável,Cinema,122.66
+2024-08-21,Lazer,Variável,Jogos,308.85
+2024-01-08,Transporte,Variável,Uber,69.09
+2024-03-09,Lazer,Variável,Jogos,348.05
+2024-03-06,Moradia,Fixo,Conta de Luz,279.01
+2024-07-18,Alimentação,Variável,Restaurante,31.01
+2024-07-06,Alimentação,Variável,Delivery,99.0
+2024-08-10,Saúde,Fixo,Farmácia,17.06
+2024-09-20,Transporte,Variável,Uber,58.57
+2024-05-20,Transporte,Variável,Gasolina,68.19
+2024-01-26,Transporte,Variável,Gasolina,293.46
+2024-12-16,Transporte,Variável,Gasolina,157.41
