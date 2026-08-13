@@ -2,27 +2,29 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
-# 1. Configurar o título
+# 1. Configurar o título e layout da página
 st.set_page_config(page_title="Meu Dashboard Financeiro", layout="wide")
 st.title("💸 Dashboard de Finanças Pessoais")
 
-# 2. Criar o botão de Upload
+# 2. Criar o botão de Upload na barra lateral para ficar mais limpo
 st.sidebar.header("📁 Importar Dados")
 arquivo_upload = st.sidebar.file_uploader("Faça o upload da sua planilha (CSV)", type=["csv"])
 
-# 3. Executa o dashboard
+# 3. Executa o dashboard se o arquivo existir
 if arquivo_upload is not None:
     df = pd.read_csv(arquivo_upload)
 
+    # TRATAMENTO DE DADOS
     df["Data"] = pd.to_datetime(df["Data"])
     
     df["Mês"] = df["Data"].dt.to_period("M").astype(str)
-
+    
+    # 5. Criar a coluna 'Tipo'
     categorias_fixas = ["Moradia", "Saúde"] 
     df["Tipo"] = df["Categoria"].apply(lambda x: "Fixo" if x in categorias_fixas else "Variável")
 
 
-    # --- 4. FILTROS ---
+    # 4. FILTROS (Barra Lateral)
     st.sidebar.header("🔎 Filtros")
     
     categorias_selecionadas = st.sidebar.multiselect(
@@ -30,7 +32,7 @@ if arquivo_upload is not None:
         options=df["Categoria"].unique(),
         default=df["Categoria"].unique()
     )
-
+    
     meses_selecionados = st.sidebar.multiselect(
         "Selecione os Meses",
         options=df["Mês"].unique(),
@@ -43,7 +45,7 @@ if arquivo_upload is not None:
     ]
 
 
-    # --- 1. CARDS COM PRINCIPAIS NÚMEROS ---
+    #1. CARDS COM PRINCIPAIS NÚMEROS 
     st.markdown("### 💰 Resumo Geral")
     col1, col2, col3, col4 = st.columns(4)
     
@@ -59,7 +61,7 @@ if arquivo_upload is not None:
     col4.metric("Transações", qtd_transacoes)
 
 
-    # --- INSIGHTS AUTOMÁTICOS ---
+    #9. INSIGHTS AUTOMÁTICOS
     if not df_filtrado.empty:
         categoria_mais_gasta = df_filtrado.groupby("Categoria")["Valor"].sum().idxmax()
         pct_maior_cat = (df_filtrado.groupby("Categoria")["Valor"].sum().max() / total_gasto) * 100
@@ -70,13 +72,13 @@ if arquivo_upload is not None:
     st.divider()
 
 
-    # --- DIVISÃO DA TELA PARA OS GRÁFICOS ---
+    # DIVISÃO DA TELA PARA OS GRÁFICOS
     col_esq1, col_dir1 = st.columns(2)
 
     with col_esq1:
-        # --- 2. GASTOS AO LONGO DO TEMPO (Mensal) ---
-        st.markdown("#### 📅 Evolução Mensal")
-
+        # 2. GASTOS AO LONGO DO TEMPO
+        st.markdown("#### 📅 Evolução Mensal Geral")
+        
         gastos_mes_linha = df_filtrado.groupby("Mês")["Valor"].sum().reset_index()
         gastos_mes_linha = gastos_mes_linha.sort_values("Mês")
 
@@ -84,18 +86,20 @@ if arquivo_upload is not None:
         st.plotly_chart(fig_linha, use_container_width=True)
 
     with col_dir1:
-        # --- 7. COMPARAÇÃO MENSAL ---
-        st.markdown("#### 📈 Comparação Mensal (Barras)")
-        gastos_mes = df_filtrado.groupby("Mês")["Valor"].sum().reset_index()
-        gastos_mes = gastos_mes.sort_values("Mês") # Garantindo a ordem aqui também
-        fig_mes = px.bar(gastos_mes, x="Mês", y="Valor", text_auto=".2f", color="Mês")
-        st.plotly_chart(fig_mes, use_container_width=True)
+        #7. COMPARAÇÃO MENSAL POR CATEGORIA
+        st.markdown("#### 📈 Gastos por Mês e Categoria")
+
+        gastos_mes_cat = df_filtrado.groupby(["Mês", "Categoria"])["Valor"].sum().reset_index()
+        gastos_mes_cat = gastos_mes_cat.sort_values("Mês") 
+
+        fig_mes_cat = px.bar(gastos_mes_cat, x="Mês", y="Valor", color="Categoria")
+        st.plotly_chart(fig_mes_cat, use_container_width=True)
 
 
     col_esq2, col_dir2 = st.columns(2)
 
     with col_esq2:
-        # --- 3. DISTRIBUIÇÃO POR CATEGORIA ---
+        # 3. DISTRIBUIÇÃO POR CATEGORIA
         st.markdown("#### 🏷️ Distribuição por Categoria")
         gastos_cat = df_filtrado.groupby("Categoria")["Valor"].sum().reset_index()
 
@@ -103,7 +107,7 @@ if arquivo_upload is not None:
         st.plotly_chart(fig_donut, use_container_width=True)
 
     with col_dir2:
-        # --- 5. GASTOS POR TIPO ---
+        # 5. GASTOS POR TIPO 
         st.markdown("#### 💳 Custos Fixos x Variáveis")
         gastos_tipo = df_filtrado.groupby("Tipo")["Valor"].sum().reset_index()
         fig_tipo = px.pie(gastos_tipo, values="Valor", names="Tipo", color="Tipo", 
@@ -117,14 +121,14 @@ if arquivo_upload is not None:
     col_esq3, col_dir3 = st.columns(2)
 
     with col_esq3:
-        # --- 6. RANKING DOS MAIORES GASTOS ---
+        # 6. RANKING DOS MAIORES GASTOS
         st.markdown("#### 🥇 Top 10 Maiores Gastos")
         top_10 = df_filtrado.nlargest(10, "Valor")[["Data", "Categoria", "Descricao", "Valor"]]
 
         st.dataframe(top_10, hide_index=True, use_container_width=True)
 
     with col_dir3:
-        # --- 8. IDENTIFICAÇÃO DE GASTOS ACIMA DA MÉDIA ---
+        #8. IDENTIFICAÇÃO DE GASTOS ACIMA DA MÉDIA
         st.markdown("#### 🚨 Atenção: Gastos Acima da Média")
         acima_media = df_filtrado[df_filtrado["Valor"] > media_gasto]
         st.warning(f"Você possui **{len(acima_media)}** gastos individuais que superam a sua média geral de R$ {media_gasto:.2f}.")
