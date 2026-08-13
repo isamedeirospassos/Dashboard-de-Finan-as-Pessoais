@@ -1,44 +1,74 @@
 # 💸 Dashboard de Finanças Pessoais
 
-Um dashboard interativo e clean construído com Python para analisar gastos pessoais. O usuário pode fazer o upload da própria planilha de gastos e visualizar para onde o dinheiro está indo através de gráficos dinâmicos.
+Dashboard interativo desenvolvido em **Python** para análise de gastos pessoais.
+
+A aplicação permite importar uma planilha `.csv` e visualizar os gastos de forma simples e dinâmica, facilitando a identificação de onde o dinheiro está sendo utilizado.
+
+🌐 **[Acessar o Dashboard](https://dashboard-financas-pess.streamlit.app/)**
 
 ## 🚀 Funcionalidades
 
-- **Upload Dinâmico:** Aceita arquivos `.csv` com os dados financeiros do usuário.
-- **Visualização de Dados:** Exibição da planilha de forma estruturada e interativa.
-- **Gráficos Automáticos:** Gráfico de barras mostrando o consolidado de gastos por categoria.
-- **Gerador de Dados:** Inclui um script (`gerar_dados.py`) que cria automaticamente uma base de testes realista com 500 registros.
+* 📂 Upload de arquivos `.csv`
+* 📊 Visualização dos dados financeiros
+* 📈 Gráficos interativos de gastos por categoria
+* 🔎 Agrupamento e análise dos gastos
+* 🧪 Gerador de dados para testes
+* 🤖 Gerador de arquivos CSV desenvolvido com apoio de IA
 
-## 🛠️ Tecnologias Utilizadas
+### Gerador de dados
 
-- **[Python](https://www.python.org/)** - Linguagem principal.
-- **[Streamlit](https://streamlit.io/)** - Criação da interface web e deploy.
-- **[Pandas](https://pandas.pydata.org/)** - Leitura, agrupamento e manipulação dos dados CSV.
-- **[Plotly](https://plotly.com/python/)** - Geração de gráficos bonitos e interativos.
+O projeto possui um script `gerar_dados.py` responsável por criar uma base de dados fictícia para testes.
 
-## 💻 Como rodar o projeto localmente
+O gerador utiliza as bibliotecas:
 
-1. Clone este repositório no seu computador:
-   ```bash
-   git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
-   ```
+```python
+import csv
+import random
+from datetime import datetime, timedelta
+```
 
-2. Instale as dependências do projeto:
-   ```bash
-   pip install -r requirements.txt
-   ```
+Com ele, é possível gerar automaticamente arquivos `.csv` com registros de gastos, facilitando os testes do dashboard sem a necessidade de criar uma planilha manualmente.
 
-3. (Opcional) Para gerar um arquivo de testes (`gastos_500.csv`):
-   ```bash
-   python gerar_dados.py
-   ```
+## 🛠️ Tecnologias
 
-4. Inicie a aplicação:
-   ```bash
-   streamlit run app.py
-   ```
+* **Python**
+* **Pandas**
+* **Streamlit**
+* **Plotly**
+* **CSV**
 
-## 🌐 Acesso Online
+## 💻 Como executar
 
-O projeto está hospedado no Streamlit Community Cloud. Você pode testar a aplicação funcionando ao vivo aqui:
-**[Acessar o Dashboard](https://seu-link-do-streamlit.streamlit.app/)**
+Clone o repositório:
+
+```bash
+git clone https://github.com/isamedeirospassos/Dashboard-de-Finan-as-Pessoais.git
+```
+
+Instale as dependências:
+
+```bash
+pip install -r requirements.txt
+```
+
+Gere uma base de dados para teste:
+
+```bash
+python gerar_dados.py
+```
+
+Execute o dashboard:
+
+```bash
+streamlit run app.py
+```
+
+## 🌐 Projeto online
+
+Teste o projeto diretamente pelo Streamlit:
+
+**[🚀 Dashboard de Finanças Pessoais](https://dashboard-financas-pess.streamlit.app/)**
+
+## 👩‍💻 Sobre o projeto
+
+Projeto desenvolvido como parte dos meus estudos em **Python e Análise de Dados**, com foco em manipulação de dados, visualização e construção de aplicações interativas.
