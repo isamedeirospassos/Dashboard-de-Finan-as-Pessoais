@@ -1,77 +1,41 @@
-# 💸 Dashboard de Finanças Pessoais
+# Dashboard de Finanças Pessoais
 
-Dashboard interativo desenvolvido em **Python** para análise e visualização de gastos pessoais.
+Projeto desenvolvido durante meus estudos em Python e Análise de Dados para explorar gastos pessoais em um dashboard interativo.
 
-A aplicação permite fazer o upload de uma planilha `.csv`, aplicar filtros e analisar os gastos através de indicadores, gráficos interativos e insights automáticos.
+A aplicação permite carregar um arquivo CSV, filtrar os dados por mês e categoria e visualizar indicadores e gráficos. A execução é local, iniciada pelo terminal.
 
-🌐 **[Acessar o Dashboard](https://dashboard-financas-pess.streamlit.app/)**
+## Funcionalidades
 
-## 📊 Funcionalidades
+- Upload de arquivos CSV e filtros por mês e categoria.
+- Indicadores de total, média, maior gasto e quantidade de transações.
+- Evolução e comparação mensal dos gastos.
+- Distribuição dos valores por categoria e por tipo: fixo ou variável.
+- Ranking dos 10 maiores gastos e identificação de valores acima da média.
+- Resumo da categoria com maior gasto e tabela dos dados filtrados.
 
-* 📂 Upload de arquivos `.csv`
-* 🔎 Filtros por categoria e mês
-* 💰 Resumo dos principais indicadores:
+## Tecnologias
 
-  * Total de gastos
-  * Média de gastos
-  * Maior gasto
-  * Quantidade de transações
-* 📅 Evolução mensal dos gastos
-* 📈 Comparação mensal em gráfico de barras
-* 🏷️ Distribuição dos gastos por categoria
-* 💳 Comparação entre custos fixos e variáveis
-* 🥇 Ranking dos 10 maiores gastos
-* 🚨 Identificação de gastos acima da média
-* 💡 Insight automático sobre a categoria com maior gasto
-* 📋 Visualização dos gastos filtrados
+- **Python:** desenvolvimento da aplicação.
+- **Pandas:** tratamento e análise dos dados.
+- **Plotly:** gráficos interativos.
+- **Streamlit:** interface do dashboard.
 
-## 🤖 Gerador de Dados
+## Dados de teste
 
-O projeto também possui um **gerador de arquivos CSV** para criar uma base de dados fictícia utilizada nos testes do dashboard.
+O projeto inclui uma base fictícia com 500 registros e um script para gerar esses dados, desenvolvido com apoio de IA.
 
-O gerador foi criado com **apoio de IA** e utiliza Python para gerar automaticamente **500 registros de gastos**, incluindo diferentes categorias, datas, descrições, valores e tipos de gastos.
+O arquivo contém as colunas `Data`, `Categoria`, `Tipo`, `Descricao` e `Valor`, com gastos de alimentação, transporte, lazer, moradia e saúde.
 
-O script utiliza:
+## Imagens do dashboard
 
-```python
-import csv
-import random
-from datetime import datetime, timedelta
-```
+![Visão geral do dashboard](dash-I.jpeg)
 
-As categorias utilizadas são:
+![Detalhes do dashboard](dash-II.jpeg)
 
-* Alimentação
-* Transporte
-* Lazer
-* Moradia
-* Saúde
-
-O arquivo gerado possui as seguintes colunas:
+## Estrutura do projeto
 
 ```text
-Data
-Categoria
-Tipo
-Descricao
-Valor
-```
-
-Os gastos também são classificados entre **Fixo** e **Variável**.
-
-## 🛠️ Tecnologias
-
-* **Python** - Desenvolvimento da aplicação e geração dos dados
-* **Pandas** - Tratamento, transformação e análise dos dados
-* **Plotly** - Criação dos gráficos interativos
-* **Streamlit** - Desenvolvimento da interface do dashboard
-* **CSV** - Armazenamento e importação dos dados
-
-## 📁 Estrutura do Projeto
-
-```text
-📦 Dashboard-de-Finan-as-Pessoais
-│
+Dashboard-de-Finan-as-Pessoais/
 ├── app.py
 ├── gerar_dados.py
 ├── gastos_500.csv
@@ -79,69 +43,34 @@ Os gastos também são classificados entre **Fixo** e **Variável**.
 └── README.md
 ```
 
-## 💻 Como executar localmente
+## Como executar
 
-### 1. Clone o repositório
-
-```bash
-git clone https://github.com/isamedeirospassos/Dashboard-de-Finan-as-Pessoais.git
-```
-
-### 2. Entre na pasta do projeto
+Com o Python instalado, abra o terminal na pasta do projeto e instale as dependências:
 
 ```bash
-cd Dashboard-de-Finan-as-Pessoais
+python -m pip install -r requirements.txt
 ```
 
-### 3. Instale as dependências
-
-```bash
-pip install -r requirements.txt
-```
-
-### 4. Gere uma base de dados para teste
+Para gerar uma nova base de teste, execute:
 
 ```bash
 python gerar_dados.py
 ```
 
-O comando irá gerar o arquivo:
+Esse passo é opcional caso você já tenha o arquivo `gastos_500.csv`.
 
-```text
-gastos_500.csv
-```
-
-### 5. Execute o dashboard
+Inicie o dashboard:
 
 ```bash
-streamlit run app.py
+python -m streamlit run app.py
 ```
 
-## 🌐 Projeto Online
+O dashboard será aberto no navegador, rodando localmente. Se ele não abrir automaticamente, acesse o endereço local exibido no terminal.
 
-Você pode testar o dashboard diretamente pelo Streamlit:
+Na aplicação, carregue o arquivo `gastos_500.csv` para explorar os dados.
 
-**[🚀 Acessar Dashboard de Finanças Pessoais](https://dashboard-financas-pess.streamlit.app/)**
+## Aprendizados
 
-## 🎯 Objetivo do Projeto
+Neste projeto, pratiquei tratamento de dados com Pandas, organização de datas, agrupamentos, cálculo de indicadores e criação de gráficos e filtros interativos.
 
-Este projeto foi desenvolvido como parte dos meus estudos em **Python e Análise de Dados**, com foco em transformar dados financeiros em informações visuais e fáceis de interpretar.
-
-Durante o desenvolvimento, foram praticados conceitos de:
-
-* Manipulação e tratamento de dados com Pandas
-* Conversão e organização de datas
-* Agrupamento e agregação de dados
-* Criação de filtros interativos
-* Criação de indicadores
-* Visualização de dados
-* Desenvolvimento de dashboards com Streamlit
-* Criação de gráficos interativos com Plotly
-* Geração de dados fictícios para testes
-* Uso de IA como ferramenta de apoio no desenvolvimento
-
-## 👩‍💻 Desenvolvido por
-
-**Isabella Passos**
-
-[GitHub](https://github.com/isamedeirospassos)
+Desenvolvido por **Isabella Passos**.
